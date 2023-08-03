@@ -2,11 +2,11 @@
 ## 실험용 레포 
 Next.js (13)의 Parallel-Routes를 정리하기 위한 레포입니다.
 
-### Parallel-Routes의 존재이유인 각 페이지별 loading을 발생시켜볼 수 있습니다.
+### 컴포넌트별로 loading을 발생시켜볼 수 있습니다.
 <img width="800" alt="스크린샷 2023-08-04 오전 3 47 38" src="https://github.com/JeonInguk/Parallel-Routes-Next-app-router/assets/117060240/5028d4a6-be57-467e-9969-e15ee2d9cbf8">
 
 
-### Parallel-Routes의 존재이유인 각 페이지별 error을 발생시켜볼 수 있습니다.
+### 컴포넌트별로 error를 발생시켜볼 수 있습니다.
 <img width="800" alt="스크린샷 2023-08-04 오전 3 47 56" src="https://github.com/JeonInguk/Parallel-Routes-Next-app-router/assets/117060240/429fdbb9-3e74-4abc-9dac-bac38509efac">
 
 
